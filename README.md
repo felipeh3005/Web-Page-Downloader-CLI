@@ -7,8 +7,8 @@ The project focuses on asynchronous operations, structured error handling, modul
 [![Actions Status](https://github.com/felipeh3005/fullstack-javascript-project-138/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/felipeh3005/fullstack-javascript-project-138/actions)
 
 ### Qlty - Code Climate
-[![Maintainability](https://qlty.sh/gh/felipeh3005/projects/fullstack-javascript-project-138/maintainability.svg)](https://qlty.sh/gh/felipeh3005/projects/fullstack-javascript-project-138)
-[![Code Coverage](https://qlty.sh/gh/felipeh3005/projects/fullstack-javascript-project-138/coverage.svg)](https://qlty.sh/gh/felipeh3005/projects/fullstack-javascript-project-138)
+[![Maintainability](https://qlty.sh/gh/felipeh3005/projects/Web-Page-Downloader-CLI/maintainability.svg)](https://qlty.sh/gh/felipeh3005/projects/Web-Page-Downloader-CLI)
+[![Code Coverage](https://qlty.sh/gh/felipeh3005/projects/Web-Page-Downloader-CLI/coverage.svg)](https://qlty.sh/gh/felipeh3005/projects/Web-Page-Downloader-CLI)
 
 ### Video Demo
 - [Ver demo descarga de página HTML](https://github.com/felipeh3005/fullstack-javascript-project-138/blob/main/page-loader-demo.mp4)
